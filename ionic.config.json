@@ -1,0 +1,7 @@
+{
+  "name": "chApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
